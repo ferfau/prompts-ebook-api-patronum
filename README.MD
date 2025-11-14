@@ -38,11 +38,11 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um titulo de um ebook sobre o tema Back-End, o ebook é focado no nicho de desenvolvedores back-end iniciantes e o subnicho é de API's, o titulo deve ser curto e deve conter uma pegada de Harry Potter, crie 5 variações de titulos |
+| conteúdo | Faça um texto para ebook, com foco em back-end para iniciantes, listando as principais APIs com exemplos de código {REGRAS} Explique sempre de uma maneira simples Explique o que é uma API de forma simples Deixe o texto enxuto Sempre mostre exemplos de código em contextos reais Sempre deixe um texto sugestivo por tópico |
 
 
-Midjourney：
+Google Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
