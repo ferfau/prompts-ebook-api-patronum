@@ -29,7 +29,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [GoogleGemini](https://gemini.google.com/)
-- Libreoffice Impress
+- [Libreoffice Impress](https://pt-br.libreoffice.org)
 
 ## 🧠 Prompts
 
