@@ -23,7 +23,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/ferfau/prompts-ebook-api-patronum/blob/32cbe05b538b96b1a042776440a342e10340674e/output/Ebook%20-%20API%20Patrognum.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ferfau/prompts-ebook-api-patronum/blob/8439dbdf020af60d982c58cec605cbe6924bbd80/output/Ebook%20-%20API%20Patronum.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
