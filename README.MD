@@ -62,11 +62,5 @@ Google Gemini：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a84de6d1-7c1e-4c52-8a0a-4d0a10da37e5" width="500" />
-</p>
 
- 
- <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-28a745?labelColor=464646&style=for-the-badge" />
 
