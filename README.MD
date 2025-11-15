@@ -4,6 +4,14 @@
 
 
 <p align="center">
+<img 
+    src="./assets/Api Patronumjpg.jpg"
+    width="300"
+/>
+</p>
+
+
+<p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
@@ -57,3 +65,12 @@ Google Gemini：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a84de6d1-7c1e-4c52-8a0a-4d0a10da37e5" width="500" />
+</p>
+
+ 
+ <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-28a745?labelColor=464646&style=for-the-badge" />
+
